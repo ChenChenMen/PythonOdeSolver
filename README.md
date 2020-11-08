@@ -1,16 +1,16 @@
 # PythonOdeSolver
 Research and tests on ode solver in python
 
-# Scipy.Integrate.odeint
-  Runge-Kutta Method written by ative python loops \n
-  tableaus for Dormand-Prince 4/5 and Bogacki-Shampine 2/3 
-# JitCODE 
-  just-in-time compilation for ODE / an extension for scipy.integrate.ode or scipy.integrate.solve_ivp \n
-  Translate to C code
-  Speed boost
-# PyDSTool
-  ODE / DAE / discrete map simulation tools \n
-  interactive, command-line environments
+**Scipy.Integrate.odeint**
+- Runge-Kutta Method written by ative python loops
+- tableaus for Dormand-Prince 4/5 and Bogacki-Shampine 2/3 
+**JitCODE**
+- just-in-time compilation for ODE / an extension for scipy.integrate.ode or scipy.integrate.solve_ivp
+- Translate to C code
+- Speed boost
+**PyDSTool**
+- ODE / DAE / discrete map simulation tools
+- interactive, command-line environments
 
-# Comparison Chart
+**Comparison Chart**
   “A Comparison Between Differential Equation Solver Suites In MATLAB, R, Julia, Python, C, Mathematica, Maple, and Fortran” (September 26th, 2017) - http://www.stochasticlifestyle.com/comparison-differential-equation-solver-suites-matlab-r-julia-python-c-fortran/
