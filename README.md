@@ -2,14 +2,14 @@
 Research and tests on ode solver in python
 
 # Scipy.Integrate.odeint
-  Runge-Kutta Method written by ative python loops 
+  Runge-Kutta Method written by ative python loops \n
   tableaus for Dormand-Prince 4/5 and Bogacki-Shampine 2/3 
 # JitCODE 
-  just-in-time compilation for ODE / an extension for scipy.integrate.ode or scipy.integrate.solve_ivp
+  just-in-time compilation for ODE / an extension for scipy.integrate.ode or scipy.integrate.solve_ivp \n
   Translate to C code
   Speed boost
 # PyDSTool
-  ODE / DAE / discrete map simulation tools
+  ODE / DAE / discrete map simulation tools \n
   interactive, command-line environments
 
 # Comparison Chart
