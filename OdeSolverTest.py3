@@ -24,10 +24,10 @@ ts = np.linspace(0,5,10000);
 v0 = 0;
 v = odeint(dv_dt,v0,ts);
 
-# plt.plot(ts,v);
-# plt.show();
+plt.plot(ts,v);
+plt.show();
 
-# plt.figure();
+plt.figure();
 
 gap = 0.001;
 x = np.zeros(len(ts));
@@ -36,5 +36,5 @@ for i in range(len(ts)-1):
 	dx = gap * v[i];
 	x[i+1] = x[i] + dx;
 
-# plt.plot(ts,x);
-# plt.show();
+plt.plot(ts,x);
+plt.show();
